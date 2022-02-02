@@ -1,0 +1,11 @@
+this work is based on John Smilga work
+and global css is created by him.
+
+Sharpen my JavaScript skills by building 14 projects using plain JavaScript without frameworks. In this tutorial course, you will be taught step-by-step how to build JavaScript projects.
+
+💻 Code: https://github.com/john-smilga/javascript-basic-projects
+
+her tutorial:https://www.youtube.com/watch?v=3PHXvlpOkf4.
+
+
+Thank you!.
